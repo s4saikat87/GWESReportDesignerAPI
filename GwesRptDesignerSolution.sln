@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GwesRptDesignerApp", "GwesRptDesignerApp\GwesRptDesignerApp.csproj", "{467373ED-3483-4AFE-8CCC-8105E9F0D4EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GwesRptDesignerLib", "GwesRptDesignerLib\GwesRptDesignerLib.csproj", "{BB140D5F-2281-4AD2-B9A9-21F418E2E966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467373ED-3483-4AFE-8CCC-8105E9F0D4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467373ED-3483-4AFE-8CCC-8105E9F0D4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467373ED-3483-4AFE-8CCC-8105E9F0D4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467373ED-3483-4AFE-8CCC-8105E9F0D4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB140D5F-2281-4AD2-B9A9-21F418E2E966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB140D5F-2281-4AD2-B9A9-21F418E2E966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB140D5F-2281-4AD2-B9A9-21F418E2E966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB140D5F-2281-4AD2-B9A9-21F418E2E966}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5AB00FB-DC25-4D1A-890C-05ACEE874CFC}
+	EndGlobalSection
+EndGlobal

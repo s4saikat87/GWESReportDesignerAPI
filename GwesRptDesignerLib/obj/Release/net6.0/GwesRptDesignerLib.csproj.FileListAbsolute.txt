@@ -1,0 +1,12 @@
+D:\Research\VS2022\GWESReportDesigner\GwesRptDesignerSolution\GwesRptDesignerLib\bin\Release\net6.0\GwesRptDesignerLib.deps.json
+D:\Research\VS2022\GWESReportDesigner\GwesRptDesignerSolution\GwesRptDesignerLib\bin\Release\net6.0\GwesRptDesignerLib.dll
+D:\Research\VS2022\GWESReportDesigner\GwesRptDesignerSolution\GwesRptDesignerLib\bin\Release\net6.0\GwesRptDesignerLib.pdb
+D:\Research\VS2022\GWESReportDesigner\GwesRptDesignerSolution\GwesRptDesignerLib\obj\Release\net6.0\GwesRptDesignerLib.csproj.AssemblyReference.cache
+D:\Research\VS2022\GWESReportDesigner\GwesRptDesignerSolution\GwesRptDesignerLib\obj\Release\net6.0\GwesRptDesignerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Research\VS2022\GWESReportDesigner\GwesRptDesignerSolution\GwesRptDesignerLib\obj\Release\net6.0\GwesRptDesignerLib.AssemblyInfoInputs.cache
+D:\Research\VS2022\GWESReportDesigner\GwesRptDesignerSolution\GwesRptDesignerLib\obj\Release\net6.0\GwesRptDesignerLib.AssemblyInfo.cs
+D:\Research\VS2022\GWESReportDesigner\GwesRptDesignerSolution\GwesRptDesignerLib\obj\Release\net6.0\GwesRptDesignerLib.csproj.CoreCompileInputs.cache
+D:\Research\VS2022\GWESReportDesigner\GwesRptDesignerSolution\GwesRptDesignerLib\obj\Release\net6.0\GwesRptDesignerLib.dll
+D:\Research\VS2022\GWESReportDesigner\GwesRptDesignerSolution\GwesRptDesignerLib\obj\Release\net6.0\refint\GwesRptDesignerLib.dll
+D:\Research\VS2022\GWESReportDesigner\GwesRptDesignerSolution\GwesRptDesignerLib\obj\Release\net6.0\GwesRptDesignerLib.pdb
+D:\Research\VS2022\GWESReportDesigner\GwesRptDesignerSolution\GwesRptDesignerLib\obj\Release\net6.0\ref\GwesRptDesignerLib.dll
